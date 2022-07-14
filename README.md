@@ -1,5 +1,5 @@
 # QR-Reader
-This repository is for reading the QR Code if it is save or not 
+This repository is for reading the QR Code if it is safe or not 
 
 # for run this code you have to install the below requirement 
 - install XAMMP with PHP => 8 
